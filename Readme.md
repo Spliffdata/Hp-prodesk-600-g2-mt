@@ -3,6 +3,8 @@
 
 ## Specs #
 
+**iMac Pro 1,1**
+
 **Processor**:  CPU i7 6700
 
 **Graphics:**   Intel HD Graphics 530
