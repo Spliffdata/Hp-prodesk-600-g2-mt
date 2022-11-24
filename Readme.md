@@ -15,7 +15,7 @@
 
 **Macos:**      Macos Ventura 13.0.1 (Everything is working Fine - no issues)
 
-**Open Core:    0.86
+**Open Core:**    0.86
 
 
 **Based on:**
