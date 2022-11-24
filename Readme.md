@@ -25,10 +25,15 @@
 https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh
 
 and 
-Dortania Guide
+**Dortania Guide**
 
 https://dortania.github.io/OpenCore-Install-Guide/
 
 **Used Tools**
 
+Hackintool (very useful)
+GenSMBIOS
+Kext Updater
+OCConfigCompare
+ProperTree-master
 
