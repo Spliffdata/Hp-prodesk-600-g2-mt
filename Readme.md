@@ -15,6 +15,9 @@
 
 **Macos:**      Macos Ventura 13.0.1 (Everything is working Fine - no issues)
 
+**Open Core:    0.86
+
+
 **Based on:**
 
 https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh
