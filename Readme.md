@@ -21,7 +21,7 @@
 
 **EFI**:        Generate your own Serialnumbers with GenSMBIOS for a iMac Pro 1,1, (System UUID, SystemSerialNumber, ROM)
 
-If you got an Third Party USB Dongle enable BrcmPatchRAM3.kext,BrcmFirmwareData.kext, BlueToolFixup.kext  in the Configuration File (Root/PlatformInfo/Generic - Enabled -> True)
+If you got an Third Party USB Dongle enable BrcmPatchRAM3.kext,BrcmFirmwareData.kext, BlueToolFixup.kext  in the Configuration File (Root/PlatformInfo/Generic -> Enabled = True)
 
 **Based on:**
 
