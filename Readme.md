@@ -22,4 +22,4 @@ https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh
 and 
 Dortania Guide
 
-
+https://dortania.github.io/OpenCore-Install-Guide/
