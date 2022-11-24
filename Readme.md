@@ -19,7 +19,9 @@
 
 **Open Core:**    0.86
 
-**EFI**:        Generate your own Serial with GenSMBIOS for a iMac Pro 1,1, and if you got an Third Party USB Dongle enable the 3 USB Kext in the Configuration File
+**EFI**:        Generate your own Serialnumbers with GenSMBIOS for a iMac Pro 1,1, (System UUID, SystemSerialNumber, ROM)
+
+If you got an Third Party USB Dongle enable BrcmPatchRAM3.kext,BrcmFirmwareData.kext, BlueToolFixup.kext  in the Configuration File (Root/PlatformInfo/Generic - Enabled -> True)
 
 **Based on:**
 
