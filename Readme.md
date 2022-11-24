@@ -48,6 +48,4 @@ OCConfigCompare
 
 https://github.com/corpnewt/OCConfigCompare
 
-ProperTree-master
-
-https://github.com/corpnewt/ProperTree
+[ProperTree-master](https://github.com/corpnewt/ProperTree)
