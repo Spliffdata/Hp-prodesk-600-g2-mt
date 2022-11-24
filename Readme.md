@@ -13,7 +13,7 @@
 
 **Storage:**    SanDisk 240Gb SSD 
 
-**Additional:** Fenvi T919 (Bluetooth/Wifi)
+**Additional:** Fenvi FV-T919 (Bluetooth/Wifi)
 
 **Macos:**      Macos Ventura 13.0.1 (Everything is working Fine - no issues)
 
