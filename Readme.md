@@ -26,3 +26,7 @@ and
 Dortania Guide
 
 https://dortania.github.io/OpenCore-Install-Guide/
+
+**Used Tools**
+
+
