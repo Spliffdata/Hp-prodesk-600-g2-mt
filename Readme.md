@@ -19,6 +19,7 @@
 
 **Open Core:**    0.86
 
+**EFI**:        Generate your OWM Serial, and if you got an Third Party USB Dongle enable the 3 USB Kext in the Configuration File
 
 **Based on:**
 
