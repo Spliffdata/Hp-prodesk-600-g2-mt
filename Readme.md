@@ -1,7 +1,7 @@
-# HP600 G2
+# HP Prodesk 600 G2 MT / OC 0.86 / Ventura
 
 
-# Specs #
+## Specs #
 
 **Processor**:  CPU i7 6700
 
