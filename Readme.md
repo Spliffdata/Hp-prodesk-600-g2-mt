@@ -32,8 +32,21 @@ https://dortania.github.io/OpenCore-Install-Guide/
 **Used Tools**
 
 Hackintool (very useful)
+
+https://github.com/benbaker76/Hackintool
+
 GenSMBIOS
+
+https://github.com/corpnewt/GenSMBIOS
+
 Kext Updater
+
+https://www.sl-soft.de/en/kext-updater/
+
 OCConfigCompare
+
+https://github.com/corpnewt/OCConfigCompare
+
 ProperTree-master
 
+https://github.com/corpnewt/ProperTree
